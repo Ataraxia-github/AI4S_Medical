@@ -23,8 +23,8 @@ python = 3.8	# python版本
 ```
 
 ```python
-import torch	# pytorch版本
-print(torch.__version__) 
+>>>import torch	# pytorch版本
+>>>print(torch.__version__) 
 1.13.1
 ```
 
