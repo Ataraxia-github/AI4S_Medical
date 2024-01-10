@@ -32,7 +32,7 @@ python = 3.8	# python版本
 
 ## 目录结构
 
-├ ─ ─ README_ch.md           // 中文帮助文档
+├ ─ ─ README.md           // 中文帮助文档
 
 ├ ─ ─ README_en.md           // 英文帮助文档（English）
 
