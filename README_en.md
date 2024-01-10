@@ -28,7 +28,7 @@ python = 3.8	# python edition
 Necessary libraries：``` pandas、sklearn、numpy```
 
 ## Directory Structure
-├ ─ ─ README_ch.md           // Chinese help document
+├ ─ ─ README.md           // Chinese help document
 
 ├ ─ ─ README_en.md           // English help document
 
